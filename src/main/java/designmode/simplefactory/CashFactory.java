@@ -1,0 +1,24 @@
+package designmode.simplefactory;
+
+/**
+ * 现金收费工厂类
+ * 简单工厂模式
+ *
+ */
+public class CashFactory {
+    public static CashSuper createCashAcceptObj(String type) {
+        CashSuper cashSuper = null;
+        switch (type) {
+            case "正常收费":
+                cashSuper = new CashNormal();
+                break;
+            case "满300减100":
+                cashSuper = new CashReturn(300, 100);
+                break;
+            case "打八折":
+                cashSuper = new CashRebate(0.8);
+                break;
+        }
+        return cashSuper;
+    }
+}
