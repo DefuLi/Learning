@@ -2,7 +2,7 @@ package otherexperiment;
 
 /**
  * @author Defu Li
- * @date 2021/2/9 16:35
+ * @since 2021/2/9 16:35
  */
 public class TestStatic {
     public static int count = 100;

@@ -6,7 +6,7 @@ import designmode.creation.factory.simplefactory.Fruit;
  * 工厂方法设计模式
  *
  * @author Defu Li
- * @date 2021/7/31 0:28
+ * @since 2021/7/31 0:28
  */
 public class Main {
     public static void main(String[] args) {

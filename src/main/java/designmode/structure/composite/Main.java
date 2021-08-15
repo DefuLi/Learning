@@ -5,7 +5,7 @@ package designmode.structure.composite;
  * 该模式的具体实现和字典树数据结构比较像
  *
  * @author Defu Li
- * @date 2021/7/25 23:28
+ * @since 2021/7/25 23:28
  */
 public class Main {
     public static void main(String[] args) {

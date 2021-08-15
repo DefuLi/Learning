@@ -4,7 +4,7 @@ package designmode.structure.decorator.beauty;
  * 戒指装饰类
  *
  * @author Defu Li
- * @date 2021/7/26 0:05
+ * @since 2021/7/26 0:05
  */
 public class RingDecorator implements IBeauty {
     private final IBeauty me;

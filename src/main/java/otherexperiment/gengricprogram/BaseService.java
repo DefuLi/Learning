@@ -2,7 +2,7 @@ package otherexperiment.gengricprogram;
 
 /**
  * @author Defu Li
- * @date 2021/2/9 11:48
+ * @since 2021/2/9 11:48
  */
 public abstract class BaseService<T> {
     public Result handle(){

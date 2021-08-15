@@ -4,7 +4,7 @@ package cleancode.swordoffer;
  * 数组中重复的数字
  *
  * @author Defu Li
- * @date 2021/7/10 23:13
+ * @since 2021/7/10 23:13
  */
 public class Question03 {
     public static void main(String[] args) {

@@ -4,7 +4,7 @@ package designmode.structure.decorator.beauty;
  * 耳环装饰类
  *
  * @author Defu Li
- * @date 2021/7/26 0:11
+ * @since 2021/7/26 0:11
  */
 public class EarringDecorator implements IBeauty {
     private final IBeauty me;

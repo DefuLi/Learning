@@ -4,7 +4,7 @@ package designmode.creation.factory.simplefactory;
  * 简单工厂模式
  *
  * @author Defu Li
- * @date 2021/7/29 23:57
+ * @since 2021/7/29 23:57
  */
 public class Main {
     public static void main(String[] args) {

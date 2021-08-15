@@ -7,7 +7,7 @@ import java.util.Queue;
  * 二叉树的最小深度
  *
  * @author Defu Li
- * @date 2021/7/31 0:14
+ * @since 2021/7/31 0:14
  */
 public class LeetCode111 {
     public int minDepth(TreeNode root) {

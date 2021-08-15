@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * @author Defu Li
- * @date 2021/2/25 15:49
+ * @since 2021/2/25 15:49
  */
 public class Human {
     public <T extends Human> void func1(T t){

@@ -4,7 +4,7 @@ package designmode.creation.prototype;
  * 用户类 测试原型设计模式
  *
  * @author Defu Li
- * @date 2021/8/3 0:23
+ * @since 2021/8/3 0:23
  */
 public class User {
     public static void main(String[] args) {

@@ -4,7 +4,7 @@ package designmode.structure.flyweight;
  * 享元类，拥有一棵树的部分状态
  *
  * @author Defu Li
- * @date 2021/7/27 8:25
+ * @since 2021/7/27 8:25
  */
 public class TreeType {
     public String name;

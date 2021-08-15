@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  * @author Defu Li
- * @date 2021/3/3 17:59
+ * @since 2021/3/3 17:59
  */
 public class AllocatedMemory {
     /**

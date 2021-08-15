@@ -7,7 +7,7 @@ import designmode.creation.factory.simplefactory.Apple;
  * 苹果工厂类
  *
  * @author Defu Li
- * @date 2021/7/31 0:27
+ * @since 2021/7/31 0:27
  */
 public class AppleFactory {
     public Fruit create() {

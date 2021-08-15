@@ -4,7 +4,7 @@ package designmode.structure.decorator.beauty;
  * 测试颜值装饰器模式
  *
  * @author Defu Li
- * @date 2021/7/26 0:08
+ * @since 2021/7/26 0:08
  */
 public class Main {
     public static void main(String[] args) {

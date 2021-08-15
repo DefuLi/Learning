@@ -4,7 +4,7 @@ package designmode.creation.singleton;
  * 静态内部类单例
  *
  * @author Defu Li
- * @date 2021/8/2 0:34
+ * @since 2021/8/2 0:34
  */
 public class StaticInnerSingleton {
     private StaticInnerSingleton() {

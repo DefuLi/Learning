@@ -2,7 +2,7 @@ package otherexperiment.usinginterface;
 
 /**
  * @author Defu Li
- * @date 2020/9/16 15:40
+ * @since 2020/9/16 15:40
  */
 public class Main {
     public void act(Animal animal) {

@@ -7,7 +7,7 @@ import designmode.structure.bridge.IShape;
  * 矩形类
  *
  * @author Defu Li
- * @date 2021/7/25 19:10
+ * @since 2021/7/25 19:10
  */
 public class Rectangle implements IShape {
 

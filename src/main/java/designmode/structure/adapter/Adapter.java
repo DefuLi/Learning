@@ -4,7 +4,7 @@ package designmode.structure.adapter;
  * 电源适配器
  *
  * @author Defu Li
- * @date 2021/7/25 13:26
+ * @since 2021/7/25 13:26
  */
 public class Adapter {
     public static int convert(int homeVolt) {

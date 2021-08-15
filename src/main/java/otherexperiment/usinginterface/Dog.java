@@ -2,7 +2,7 @@ package otherexperiment.usinginterface;
 
 /**
  * @author Defu Li
- * @date 2020/9/16 15:39
+ * @since 2020/9/16 15:39
  */
 public class Dog implements Animal {
     @Override

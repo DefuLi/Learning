@@ -6,7 +6,7 @@ import designmode.structure.bridge.IColor;
  * 黄色类
  *
  * @author Defu Li
- * @date 2021/7/25 19:23
+ * @since 2021/7/25 19:23
  */
 public class Yellow implements IColor {
     @Override

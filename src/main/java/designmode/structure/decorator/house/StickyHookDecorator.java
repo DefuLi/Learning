@@ -4,7 +4,7 @@ package designmode.structure.decorator.house;
  * 粘钩装饰类
  *
  * @author Defu Li
- * @date 2021/7/26 0:30
+ * @since 2021/7/26 0:30
  */
 public class StickyHookDecorator implements IStickyHookHouse {
     private IHouse house;

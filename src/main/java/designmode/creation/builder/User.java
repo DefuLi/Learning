@@ -4,7 +4,7 @@ package designmode.creation.builder;
  * 用户类 测试建造者设计模式
  *
  * @author Defu Li
- * @date 2021/8/3 0:12
+ * @since 2021/8/3 0:12
  */
 public class User {
     public static void main(String[] args) {

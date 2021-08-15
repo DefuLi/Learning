@@ -4,7 +4,7 @@ package designmode.structure.flyweight;
  * 树类，作为享元模式中的客户端使用
  *
  * @author Defu Li
- * @date 2021/7/28 0:09
+ * @since 2021/7/28 0:09
  */
 public class Tree {
     public String x;

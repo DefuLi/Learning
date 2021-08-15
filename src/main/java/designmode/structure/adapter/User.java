@@ -4,7 +4,7 @@ package designmode.structure.adapter;
  * 用户充电
  *
  * @author Defu Li
- * @date 2021/7/25 13:28
+ * @since 2021/7/25 13:28
  */
 public class User {
     public static void main(String[] args) {

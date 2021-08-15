@@ -2,7 +2,7 @@ package otherexperiment;
 
 /**
  * @author Defu Li
- * @date 2021/2/27 12:43
+ * @since 2021/2/27 12:43
  */
 public class Swan {
     public String name = "Swan";

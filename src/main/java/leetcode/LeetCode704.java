@@ -7,7 +7,7 @@ package leetcode;
  * 也可以保证进入while循环，不然只能return -1，导致错误。
  *
  * @author Defu Li
- * @date 2021/7/15 23:15
+ * @since 2021/7/15 23:15
  */
 public class LeetCode704 {
     public static void main(String[] args) {

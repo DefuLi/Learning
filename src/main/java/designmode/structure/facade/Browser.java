@@ -4,7 +4,7 @@ package designmode.structure.facade;
  * 浏览器
  *
  * @author Defu Li
- * @date 2021/7/26 23:43
+ * @since 2021/7/26 23:43
  */
 public class Browser {
     public void open() {

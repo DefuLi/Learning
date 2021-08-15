@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * @author Defu Li
- * @date 2021/2/9 13:10
+ * @since 2021/2/9 13:10
  */
 public class ChinaResponse extends BaseResponse {
     List<String> province;

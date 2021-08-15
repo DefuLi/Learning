@@ -2,7 +2,7 @@ package otherexperiment.gengricprogram;
 
 /**
  * @author Defu Li
- * @date 2021/2/9 13:18
+ * @since 2021/2/9 13:18
  */
 public class Main {
     public static void main(String[] args) {

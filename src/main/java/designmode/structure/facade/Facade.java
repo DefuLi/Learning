@@ -9,7 +9,7 @@ package designmode.structure.facade;
  * 使用外观模式，上班一个函数，下班一个函数
  *
  * @author Defu Li
- * @date 2021/7/26 23:45
+ * @since 2021/7/26 23:45
  */
 public class Facade {
     Browser browser = new Browser();

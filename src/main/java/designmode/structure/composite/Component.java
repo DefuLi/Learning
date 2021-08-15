@@ -4,7 +4,7 @@ package designmode.structure.composite;
  * 组件类
  *
  * @author Defu Li
- * @date 2021/7/25 21:06
+ * @since 2021/7/25 21:06
  */
 public abstract class Component {
     // 职位

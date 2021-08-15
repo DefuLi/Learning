@@ -7,7 +7,7 @@ import java.util.List;
  * 管理者
  *
  * @author Defu Li
- * @date 2021/7/25 21:11
+ * @since 2021/7/25 21:11
  */
 public class Manager extends Component {
     private List<Component> components = new ArrayList<>();

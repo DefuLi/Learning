@@ -3,7 +3,7 @@ package otherexperiment.gengricprogram;
 
 /**
  * @author Defu Li
- * @date 2021/2/9 11:31
+ * @since 2021/2/9 11:31
  */
 public class Result<T> {
     T response;

@@ -7,7 +7,7 @@ import designmode.structure.proxy.staticproxy.Person;
  * 动态代理模式的测试类
  *
  * @author Defu Li
- * @date 2021/7/28 22:45
+ * @since 2021/7/28 22:45
  */
 public class Main {
     public static void main(String[] args) {

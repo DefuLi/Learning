@@ -4,7 +4,7 @@ package designmode.creation.prototype;
  * 奶茶 原型设计模式
  *
  * @author Defu Li
- * @date 2021/8/3 0:20
+ * @since 2021/8/3 0:20
  */
 public class MilkTea {
     public String sugar;

@@ -6,7 +6,7 @@ import java.util.Arrays;
  * 划分为k个相等的子集，第二种方法
  *
  * @author Defu Li
- * @date 2021/8/1 10:03
+ * @since 2021/8/1 10:03
  */
 public class LeetCode698_2 {
     public static void main(String[] args) {

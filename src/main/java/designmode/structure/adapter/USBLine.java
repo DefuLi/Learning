@@ -4,7 +4,7 @@ package designmode.structure.adapter;
  * USB线
  *
  * @author Defu Li
- * @date 2021/7/25 13:13
+ * @since 2021/7/25 13:13
  */
 public class USBLine {
     public void charge(int volt) {

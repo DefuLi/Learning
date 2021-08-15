@@ -11,7 +11,7 @@ import java.lang.reflect.Proxy;
  * Person动态代理类
  *
  * @author Defu Li
- * @date 2021/7/28 22:34
+ * @since 2021/7/28 22:34
  */
 public class PersonProxy implements InvocationHandler {
     private IPerson person;

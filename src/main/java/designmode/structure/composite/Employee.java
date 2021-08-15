@@ -4,7 +4,7 @@ package designmode.structure.composite;
  * 员工
  *
  * @author Defu Li
- * @date 2021/7/25 21:22
+ * @since 2021/7/25 21:22
  */
 public class Employee extends Component {
     public Employee(String position, String job) {

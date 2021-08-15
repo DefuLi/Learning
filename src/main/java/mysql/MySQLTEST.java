@@ -6,7 +6,7 @@ import java.sql.*;
  * 测试MySQL若干问题
  *
  * @author Defu Li
- * @date 2021/7/11 21:42
+ * @since 2021/7/11 21:42
  */
 public class MySQLTEST {
     public static void main(String[] args) {

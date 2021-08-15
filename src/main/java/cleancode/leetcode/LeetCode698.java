@@ -9,7 +9,7 @@ import java.util.Comparator;
  * 划分为k个相等的子集
  *
  * @author Defu Li
- * @date 2021/8/1 0:45
+ * @since 2021/8/1 0:45
  */
 public class LeetCode698 {
     int[] bucket;

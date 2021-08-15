@@ -2,7 +2,7 @@ package otherexperiment.gengricprogram;
 
 /**
  * @author Defu Li
- * @date 2021/2/9 13:14
+ * @since 2021/2/9 13:14
  */
 public class ChinaServiceImpl extends BaseService<ChinaResponse> {
 

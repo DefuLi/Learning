@@ -4,7 +4,7 @@ package designmode.structure.facade;
  * IDE工具
  *
  * @author Defu Li
- * @date 2021/7/26 23:44
+ * @since 2021/7/26 23:44
  */
 public class IDE {
     public void open() {

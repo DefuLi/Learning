@@ -4,7 +4,7 @@ package designmode.creation.factory.simplefactory;
  * 水果工厂
  *
  * @author Defu Li
- * @date 2021/7/28 23:00
+ * @since 2021/7/28 23:00
  */
 public class FruitFactory {
     public static Fruit create(String type) {

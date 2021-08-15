@@ -7,7 +7,7 @@ import designmode.structure.bridge.IShape;
  * 三角形
  *
  * @author Defu Li
- * @date 2021/7/25 19:12
+ * @since 2021/7/25 19:12
  */
 public class Triangle implements IShape {
     private IColor color;

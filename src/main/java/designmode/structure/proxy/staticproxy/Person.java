@@ -4,7 +4,7 @@ package designmode.structure.proxy.staticproxy;
  * Person类
  *
  * @author Defu Li
- * @date 2021/7/28 0:16
+ * @since 2021/7/28 0:16
  */
 public class Person implements IPerson {
     @Override
